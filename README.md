@@ -250,33 +250,52 @@ def run(raw_data):
 if __name__ == "__main__":
     init()
     # You can add test code here to run predictions locally
+```
 
 
 ## Visualizations
 
 ### Original Data Distribution
-![Class Distribution](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Class%20Distribution.png)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Class%20Distribution.png" alt="Class Distribution">
+</p>
+The distribution of classes in the original dataset, showing the frequency of each category.
 
 ### Confidence Scores
-![Confidence Scores](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confidence%20Scores.PNG)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confidence%20Scores.PNG" alt="Confidence Scores">
+</p>
+The confidence scores of the model predictions, highlighting the model's certainty in its classifications.
 
 ### Confusion Matrix
-![Confusion Matrix](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confusion%20Matrix.png)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confusion%20Matrix.png" alt="Confusion Matrix">
+</p>
+A confusion matrix illustrating the performance of the classification model, showing true positives, false positives, true negatives, and false negatives.
 
 ### Feature Enhancement
-![Feature Enhancement](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Feature%20Enhancement.PNG)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Feature%20Enhancement.PNG" alt="Feature Enhancement">
+</p>
+Visualization of feature enhancement techniques applied to the dataset to improve model performance.
 
 ### ROC AUC
-![ROC AUC](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/ROC%20AUC.png)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/ROC%20AUC.png" alt="ROC AUC">
+</p>
+Receiver Operating Characteristic (ROC) curve and Area Under the Curve (AUC) metric, demonstrating the model's capability to distinguish between classes.
 
 ### Test Results
-![Test Results](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Test%20Results.PNG)
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Test%20Results.PNG" alt="Test Results">
+</p>
+Results from the test dataset, summarizing the model's performance on unseen data.
 
 ### Training Metrics
-![Training Metrics](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Training%20Metrics.png)
-
-
-
+<p align="center">
+  <img src="https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Training%20Metrics.png" alt="Training Metrics">
+</p>
+Metrics from the training process, including accuracy and loss over epochs, indicating the model's learning curve.
 
 ### Contributing
 
@@ -290,6 +309,7 @@ We welcome contributions to enhance the ATF-VISION project. Please follow these 
 
 MIT License
 
+```
 Copyright (c) 2024 Abdullah Al Rakin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -309,6 +329,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 
 ### Contact Information
@@ -316,5 +337,5 @@ SOFTWARE.
 For questions, feedback, or collaborations, please reach out to:
 
 - **Abdullah Al Rakin**
-- **Email:** abdullahalrakin@gmail.com
+- **Email:** [abdullahalrakin@gmail.com](mailto:abdullahalrakin@gmail.com)
 - **GitHub:** [rakinabdullah](https://github.com/rakinabdullah)
