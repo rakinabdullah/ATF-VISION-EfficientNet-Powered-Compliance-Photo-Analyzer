@@ -1,0 +1,9 @@
+torch==1.9.0
+torchvision==0.10.0
+albumentations==1.1.0
+numpy==1.21.2
+Pillow==8.3.1
+opencv-python==4.5.3.56
+rembg==2.0.25
+dash==2.0.0
+plotly==5.3.1
