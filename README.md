@@ -254,8 +254,6 @@ if __name__ == "__main__":
 
 ## Visualizations
 
-## Visualizations
-
 ### Original Data Distribution
 ![Class Distribution](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Class%20Distribution.png)
 
