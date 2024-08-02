@@ -250,3 +250,73 @@ def run(raw_data):
 if __name__ == "__main__":
     init()
     # You can add test code here to run predictions locally
+
+
+## Visualizations
+
+## Visualizations
+
+### Original Data Distribution
+![Class Distribution](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Class%20Distribution.png)
+
+### Confidence Scores
+![Confidence Scores](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confidence%20Scores.PNG)
+
+### Confusion Matrix
+![Confusion Matrix](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Confusion%20Matrix.png)
+
+### Feature Enhancement
+![Feature Enhancement](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Feature%20Enhancement.PNG)
+
+### ROC AUC
+![ROC AUC](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/ROC%20AUC.png)
+
+### Test Results
+![Test Results](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Test%20Results.PNG)
+
+### Training Metrics
+![Training Metrics](https://github.com/rakinabdullah/ATF-VISION-EfficientNet-Powered-Compliance-Photo-Analyzer/blob/main/images/Training%20Metrics.png)
+
+
+
+
+### Contributing
+
+We welcome contributions to enhance the ATF-VISION project. Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+MIT License
+
+Copyright (c) 2024 Abdullah Al Rakin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+### Contact Information
+
+For questions, feedback, or collaborations, please reach out to:
+
+- **Abdullah Al Rakin**
+- **Email:** abdullahalrakin@gmail.com
+- **GitHub:** [rakinabdullah](https://github.com/rakinabdullah)
